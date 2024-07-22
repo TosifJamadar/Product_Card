@@ -37,6 +37,14 @@
     border-radius: 20px;
     border: 5px double #34344c;
 }
+.Product-Card-6{
+    width: 200px;
+    height: 293px;
+    background-color: #d1e0e0;
+    padding: 10px 5px;
+    border-radius: 20px;
+    border: 5px dotted #537979;
+}
 .btn-1{
     border-radius: 20px;
     border: none;
@@ -72,6 +80,13 @@
     border-radius: 20px;
 }
 .Product-img-5{
+    width: 150px;
+    height: 130px;
+    display: block;
+    margin: 10px auto;
+    border-radius: 20px;
+}
+.Product-img-6{
     width: 150px;
     height: 130px;
     display: block;
