@@ -1,5 +1,6 @@
 .Product-Card-1{
     width: 200px;
+    margin: 10px;
     background-color: #d1d1e0;
     padding: 10px 5px;
     border-radius: 20px;
@@ -8,6 +9,7 @@
 .Product-Card-2{
     width: 200px;
     height: 293px;
+    margin: 10px;
     background-color: #d1e0e0;
     padding: 10px 5px;
     border-radius: 20px;
@@ -16,6 +18,7 @@
 .Product-Card-3{
     width: 200px;
     height: 293px;
+    margin: 10px;
     background-color: #d1d1e0;
     padding: 10px 5px;
     border-radius: 20px;
@@ -24,6 +27,7 @@
 .Product-Card-4{
     width: 200px;
     height: 293px;
+    margin: 10px;
     background-color: #d1e0e0;
     padding: 10px 5px;
     border-radius: 20px;
@@ -32,6 +36,7 @@
 .Product-Card-5{
     width: 200px;
     height: 293px;
+    margin: 10px;
     background-color: #d1d1e0;
     padding: 10px 5px;
     border-radius: 20px;
@@ -40,6 +45,7 @@
 .Product-Card-6{
     width: 200px;
     height: 293px;
+    margin: 10px;
     background-color: #d1e0e0;
     padding: 10px 5px;
     border-radius: 20px;
@@ -48,6 +54,7 @@
 .Product-Card-7{
     width: 200px;
     height: 293px;
+    margin: 10px;
     background-color: #d1e0e0;
     padding: 10px 5px;
     border-radius: 20px;
@@ -56,6 +63,7 @@
 .Product-Card-8{
     width: 200px;
     height: 293px;
+    margin: 10px;
     background-color: #d1d1e0;
     padding: 10px 5px;
     border-radius: 20px;
@@ -64,6 +72,7 @@
 .Product-Card-9{
     width: 200px;
     height: 293px;
+    margin: 10px;
     background-color: #d1e0e0;
     padding: 10px 5px;
     border-radius: 20px;
@@ -72,6 +81,7 @@
 .Product-Card-10{
     width: 200px;
     height: 293px;
+    margin: 10px;
     background-color: #d1d1e0;
     padding: 10px 5px;
     border-radius: 20px;
@@ -80,6 +90,7 @@
 .Product-Card-11{
     width: 200px;
     height: 293px;
+    margin: 10px;
     background-color: #d1e0e0;
     padding: 10px 5px;
     border-radius: 20px;
@@ -88,6 +99,7 @@
 .Product-Card-12{
     width: 200px;
     height: 293px;
+    margin: 10px;
     background-color: #d1d1e0;
     padding: 10px 5px;
     border-radius: 20px;
@@ -102,6 +114,7 @@
 }
 .Product-img-1{
     width: 150px;
+    height: 130px;
     display: block;
     margin: 10px auto;
     border-radius: 20px;
